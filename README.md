@@ -1,8 +1,8 @@
 <h1><center>Blended Intensive Programme (ERASMUS) on Nature Conservation and Artificial Intelligence </center></h1>
 <center>
-<img src="https://portugalpolytechnics.com/wp-content/uploads/2017/04/braganca-768x367.png" width="300"/>
-<img src="https://www2.unimol.it/wp-content/uploads/2021/03/Unimol-logo.png" width="150"/>
-<img src="logo" width="150"/>
+<img src="./logos/ipb.png" width="300"/>
+<img src="./logos/unimol.png" width="150"/>
+<img src="./logos/uva.png" width="150"/>
 </center>
 <center>
 Mobility week contents
